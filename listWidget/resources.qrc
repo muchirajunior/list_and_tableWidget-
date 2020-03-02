@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>myicons/avocando.jpg</file>
+        <file>myicons/database.ico</file>
+        <file>myicons/open.ico</file>
+    </qresource>
+</RCC>
